@@ -2,17 +2,17 @@
 const users = [
   {
     caption: 'User1',
-    image: '/test-site/img/docusaurus.svg',
-    infoLink: 'https://janishar.github.io',
+    image: '/MindorksLibraryTest/img/docusaurus.svg',
+    infoLink: 'http://janishar.com',
     pinned: true,
   },
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
+  title: 'MindorksLibraryTest' /* title for your website */,
   tagline: 'A website for testing',
-  url: 'https://janishar.github.io' /* your website url */,
-  baseUrl: 'mindorks-library-test' /* base url for your project */,
+  url: 'http://janishar.com' /* your website url */,
+  baseUrl: '/MindorksLibraryTest/' /* base url for your project */,
   projectName: 'MindorksLibraryTest',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
