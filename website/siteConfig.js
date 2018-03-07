@@ -3,7 +3,7 @@ const users = [
   {
     caption: 'User1',
     image: '/test-site/img/docusaurus.svg',
-    infoLink: 'http://janishar.com',
+    infoLink: 'https://janishar.github.io',
     pinned: true,
   },
 ];
